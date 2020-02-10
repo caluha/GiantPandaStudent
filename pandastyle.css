@@ -18,5 +18,6 @@ h1 {
 }
 
 h1, h2 {
+    color: #617926;
     text-shadow: 2px 2px 20px #99bd00;
 }
