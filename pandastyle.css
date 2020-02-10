@@ -31,5 +31,7 @@ h1, h2 {
 
 p {
     background: #39de98;
-    padding: 5px;
+    padding: 15px;
+    border-radius: 20px;
+    margin:5px;
 }
